@@ -1,0 +1,11 @@
+Here is a BOM and links
+
+D1 |	Zener Diode |	7.5V Zener used in this spec, but can be adjusted to meet your needs	| https://www.mouser.com/ProductDetail/512-BZX79C7V5T50A
+D2 |  LED	        | Device:LED	|  https://www.mouser.com/ProductDetail/593-VAOL-3MAE2
+Q1 |	2N4403	    | Transistor BJT |	https://www.mouser.com/ProductDetail/637-2N4403
+R1 |	33k		      | https://www.mouser.com/ProductDetail/660-MF1-4DCT52R3302F
+R2 |	2k		      | https://www.mouser.com/ProductDetail/660-MF1-4DCT52R2001F
+C1 |	4.7uF	      | Polarized electrolytic | https://www.mouser.com/ProductDetail/Panasonic/ECE-A1HKS4R7B?qs=rMMd5vBiahomrHXYc9f3Gg%3D%3D
+
+
+			
